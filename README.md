@@ -135,7 +135,7 @@ Give a ⭐️ if this project helped you!
 
 ## :page_facing_up: License
 
-MIT/Massachusetts Institute of Technology(here [LICENSE](https://github.com/mirajsankdecha/Caresure-Health-Insurance/blob/development/LICENSE))
+MIT/Massachusetts Institute of Technology(here [LICENSE](https://github.com/mirajsankdecha/veloce-clone-ecommerce/blob/main/LICENSE))
 
 The Caresure Health Insurance code is licensed by Massachusetts Institute of Technology.
 
