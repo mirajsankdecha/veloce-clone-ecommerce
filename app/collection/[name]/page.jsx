@@ -1,6 +1,6 @@
 'use client'
 import React, { useState } from "react";
-// import Card from "../Card.json";
+import Card from "../Card.json";
 import { useParams } from 'next/navigation';
 
 const Details = () => {
