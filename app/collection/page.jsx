@@ -1,7 +1,7 @@
 'use client'
 import Navbar from "@/Components/Navbar";
 import Card from "./Card";
-import cardData from './card.json'
+// import cardData from './card.json'
 import { useState } from "react";
 const page = () => {
     const [card, setCard] = useState(cardData);
