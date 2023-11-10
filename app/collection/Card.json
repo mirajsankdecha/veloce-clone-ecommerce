@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "imgSrc": "https://overlays.co/cdn/shop/files/DSC09817_505da20f-95ef-4bc3-9500-5eddf0f701d7.jpg?v=1682933279&width=300",
+    "title": "Ecommerce T-Shirt - Red",
+    "rating": "4.2",
+    "price": "699",
+    "stock": "Out of Stock",
+    "description": "Cool and casual, this blue t-shirt is a versatile addition to your wardrobe. Made from premium quality fabric, it offers a comfortable fit for all-day wear. Pair it with your favorite jeans or shorts for a stylish and effortless look.",
+    "color": "Black,Red,Brown",
+    "size": {
+      "1": "Small",
+      "2": "Medium",
+      "3": "Large",
+      "4": "XL"
+    },
+    "quantity": 1
+  },
+  {
+    "id": "2",
+    "imgSrc": "https://overlays.co/cdn/shop/products/DSC09472.jpg?v=1682003333&width=400",
+    "title": "Ecommerce T-Shirt - Blue",
+    "rating": "4.8",
+    "price": "599",
+    "stock": "Available",
+    "description": "Cool and casual, this blue t-shirt is a versatile addition to your wardrobe. Made from premium quality fabric, it offers a comfortable fit for all-day wear. Pair it with your favorite jeans or shorts for a stylish and effortless look.",
+    "color": "Red,White,Brown",
+    "size": {
+      "1": "Small",
+      "2": "Medium",
+      "3": "Large",
+      "4": "XL"
+    },
+    "quantity": 1
+  },
+  {
+    "id": "3",
+    "imgSrc": "https://overlays.co/cdn/shop/files/DSC09612.jpg?v=1682926489&width=400",
+    "title": "Ecommerce T-Shirt - Green",
+    "rating": "4.5",
+    "price": "549",
+    "stock": "Available",
+    "description": "Make a bold statement with this trendy green t-shirt. Its vibrant color and modern design will surely turn heads. Crafted from high-quality fabric, it provides a comfortable and stylish fit. Perfect for both casual and semi-formal occasions.",
+    "color": "Black,Red,White,Brown",
+    "size": {
+      "1": "Small",
+      "2": "Medium",
+      "3": "Large",
+      "4": "XL"
+    },
+    "quantity": 1
+  },
+  {
+    "id": "4",
+    "imgSrc": "https://overlays.co/cdn/shop/files/DSC09398.jpg?v=1682926160&width=400",
+    "title": "Ecommerce T-Shirt - Yellow",
+    "rating": "4.0",
+    "price": "499",
+    "stock": "Out of Stock",
+    "description": "Brighten up your day with this stylish yellow t-shirt. Its vibrant color and comfortable fabric make it a perfect choice for a casual and cheerful look. Pair it with jeans or shorts for a trendy and effortless style.",
+    "color": "Black,Red,White,Brown",
+    "size": {
+      "1": "Small",
+      "2": "Medium",
+      "3": "Large",
+      "4": "XL"
+    },
+    "quantity": 1
+  },
+  {
+    "id": "5",
+    "imgSrc": "https://overlays.co/cdn/shop/products/DSC09225.jpg?v=1682003388&width=400",
+    "title": "Ecommerce T-Shirt - Pink",
+    "rating": "4.7",
+    "price": "649",
+    "stock": "Available",
+    "description": "Add a touch of femininity to your wardrobe with this lovely pink t-shirt. Its soft and breathable fabric ensures all-day comfort. The simple yet elegant design makes it a versatile piece that can be dressed up or down for any occasion.",
+    "color": "Black,Red,White,Brown",
+    "size": {
+      "1": "Small",
+      "2": "Medium",
+      "3": "Large",
+      "4": "XL"
+    },
+    "quantity": 1
+  },
+  {
+    "id": "6",
+    "imgSrc": "https://cdn.shopify.com/s/files/1/0566/0839/1368/products/CopyofDSC01199.jpg?v=1680535056&width=300",
+    "title": "Ecommerce T-Shirt - Black",
+    "rating": "4.3",
+    "price": "599",
+    "stock": "Out of Stock",
+    "description": "Embrace the classic and timeless appeal of black with this sleek black t-shirt. Made from premium quality fabric, it offers a comfortable and flattering fit. Versatile and easy to style, it's a must-have staple for any wardrobe.",
+    "color": "Black,Red,White,Brown",
+    "size": {
+      "1": "Small",
+      "2": "Medium",
+      "3": "Large",
+      "4": "XL"
+    },
+    "quantity": 1
+  },
+  {
+    "id": "7",
+    "imgSrc": "https://overlays.co/cdn/shop/products/DSC01778.jpg?v=1680535012&width=300",
+    "title": "Ecommerce T-Shirt - White",
+    "rating": "4.9",
+    "price": "699",
+    "stock": "Available",
+    "description": "Achieve a clean and crisp look with this stylish white t-shirt. Its versatile design makes it a perfect match for any outfit. Made from high-quality fabric, it provides a comfortable and breathable feel throughout the day.",
+    "color": "Black,Red,White,Brown",
+    "size": {
+      "1": "Small",
+      "2": "Medium",
+      "3": "Large",
+      "4": "XL"
+    },
+    "quantity": 1
+  },
+  {
+    "id": "8",
+    "imgSrc": "https://cdn.shopify.com/s/files/1/0566/0839/1368/products/Untitled-1_0006_11_jpg_d4f80271-f1cc-4994-87ec-734eb7dca5f9.jpg?v=1679995534&width=300",
+    "title": "Ecommerce T-Shirt - Purple",
+    "rating": "4.6",
+    "price": "649",
+    "stock": "Available",
+    "description": "Stand out from the crowd with this vibrant purple t-shirt. Its bold color and modern design add a touch of uniqueness to your style. Made from premium quality fabric, it offers a comfortable fit for everyday wear.",
+    "color": "Black,Red,White,Brown",
+    "size": {
+      "1": "Small",
+      "2": "Medium",
+      "3": "Large",
+      "4": "XL"
+    },
+    "quantity": 1
+  },
+  {
+    "id": "9",
+    "imgSrc": "https://overlays.co/cdn/shop/products/DSC00747.jpg?v=1680535031&width=300",
+    "title": "Ecommerce T-Shirt - Gray",
+    "rating": "4.4",
+    "price": "599",
+    "stock": "Out of Stock",
+    "description": "Add a touch of sophistication to your wardrobe with this stylish gray t-shirt. Its neutral color and minimalistic design make it a versatile piece that can be easily paired with any outfit. Crafted from high-quality fabric, it offers a comfortable and stylish fit.",
+    "color": "Black,Red,White,Brown",
+    "size": {
+      "1": "Small",
+      "2": "Medium",
+      "3": "Large",
+      "4": "XL"
+    },
+    "quantity": 1
+  },
+  {
+    "id": "10",
+    "imgSrc": "https://cdn.shopify.com/s/files/1/0566/0839/1368/products/Untitled-1_0011_16.jpg_1.jpg?v=1679995473&width=300",
+    "title": "Ecommerce T-Shirt - Orange",
+    "rating": "4.1",
+    "price": "549",
+    "stock": "Available",
+    "description": "Make a bold fashion statement with this vibrant orange t-shirt. Its eye-catching color and modern design instantly add a pop of personality to your look. Crafted from premium quality fabric, it offers a comfortable and flattering fit.",
+    "color": "Black,Red,White,Brown",
+    "size": {
+      "1": "Small",
+      "2": "Medium",
+      "3": "Large",
+      "4": "XL"
+    },
+    "quantity": 1
+  }
+]
