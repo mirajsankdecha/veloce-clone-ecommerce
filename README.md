@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://miraj-sankdecha.vercel.app/" target="_blank">
+  <a href="https://mirajsankdecha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mirajsankdecha" />
   </a>
   <a href="www.linkedin.com/in/mirajsankdecha" target="_blank">
